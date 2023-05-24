@@ -1,0 +1,10 @@
+.app {
+    text-align: center;
+    background-color: rgb(99, 97, 97);
+  }
+  
+  @media (max-width: 400px) {
+    .app {
+      background-color: rgb(108, 148, 161);
+    }
+  }
